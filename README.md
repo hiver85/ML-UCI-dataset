@@ -12,4 +12,4 @@
     
   - **Analyze the depression dataset:** This is a personal project to predict if a person is depressed. The difficult of this dataset is imbalance and a lot of redundance feature. I good features aren't well selected. No good result can be atteint
     - Some technical applied to this dataset is: Data exploration and cleaning, consider the correlation, use PCA to reduce the dimension and using SMOTE to reduce the imbalance
-    - Model: There are 2 labels, so logistic regression and LightGBM are applied and compared. The result show that Logistic regression work better than LightGBM
+    - Model: There are 2 labels, so logistic regression and LightGBM are applied and compared. The result shows that Logistic regression works better than LightGBM
